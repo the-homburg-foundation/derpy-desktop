@@ -1,0 +1,4 @@
+# Cache and temporary files
+*.cache
+*.log
+*.swp
